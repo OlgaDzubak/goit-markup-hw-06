@@ -458,6 +458,7 @@ h1, h2, h3, h4, p {
 
   color:var(--cornflower);
 }
+
 .social-media{
   display: block;
   margin-left: 120px;
@@ -500,11 +501,11 @@ h1, h2, h3, h4, p {
 .social-media-footer-item-link:focus{
   background-color: var(--green);
 }
+
 .subscribe{
   margin-left: 80px;
 } 
 .footer-email-label-caption{
-  display: block;
   margin-bottom: 16px;
 
   font-weight: 500;
